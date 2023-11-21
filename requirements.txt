@@ -1,3 +1,4 @@
+
 blinker
 click
 colorama
@@ -8,3 +9,4 @@ Jinja2
 MarkupSafe
 packaging
 Werkzeug
+sklearn
